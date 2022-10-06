@@ -1,7 +1,7 @@
 # A Song of Fire and Ice Character Relationship Visualization
 ---
 
-
+[View Notebook](https://github.com/petersurlina/Personal-Projects/blob/c62726c86cb2eab8360dcc6cf0b1ccf67c470097/ASOFAI%20Visualization%20Project/Project_Files/A%20Song%20of%20Fire%20and%20Ice%20Character%20Analysis.ipynb)
 
 ## Project Objective
 
