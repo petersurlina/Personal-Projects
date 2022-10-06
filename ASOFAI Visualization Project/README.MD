@@ -14,9 +14,9 @@
 
 This project also assumes you have a general knowledge of local directory management and can follow along with the setup even if you have different names for files.
 
-1. install Python (https://www.python.org/downloads/)
+1. Install Python (https://www.python.org/downloads/)
 
-2. install Pycharm IDE (https://www.jetbrains.com/help/pycharm/installation-guide.html)
+2. Install Pycharm IDE (https://www.jetbrains.com/help/pycharm/installation-guide.html)
 
 3. (Optional) create a desktop folder to store the project (* I used a folder called replica_project)
 
