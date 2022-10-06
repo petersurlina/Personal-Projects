@@ -22,7 +22,7 @@ This project also assumes you have a general knowledge of local directory manage
 
 4. Run Pycharm
 
-&nbsp; - Create new Project using venv (Virtual Enviornment) in Pycharm 
+&nbsp;&nbsp;&nbsp;&nbsp;- Create new Project using venv (Virtual Enviornment) in Pycharm 
 
 ![Python Setup](https://user-images.githubusercontent.com/54562962/194196957-699c2bcb-b441-4a57-a4ad-37a594b8faf3.jpg)
 
