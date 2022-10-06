@@ -3,8 +3,6 @@
 
 ## Project Objective
 
-&nbsp;
-
 
 
 
@@ -44,11 +42,11 @@ pip install pandas, networkx, pyvis, matplot, scipy, python_louvain
 
 ![Path1](https://user-images.githubusercontent.com/54562962/194244524-a5650cfe-ed90-4144-a62b-97da3b92b108.jpg)
 
-- go into the "venv" folder
+- Go into the "venv" folder
 			
 ![Path2](https://user-images.githubusercontent.com/54562962/194244582-4b745633-65bc-49b4-94ec-32eccadb695f.jpg)
 
-- go into the "Scripts" folder
+- Go into the "Scripts" folder
 
 ![Path3](https://user-images.githubusercontent.com/54562962/194244646-d9745762-5db9-497a-ba59-bd66cfa80170.jpg)
 
@@ -58,7 +56,7 @@ pip install pandas, networkx, pyvis, matplot, scipy, python_louvain
  
 ![insert1](https://user-images.githubusercontent.com/54562962/194244833-c6543d56-1144-489c-b0ab-7bda30db1d4e.jpg)
 
-- Under the second windowed labeled "System Variables" scroll to "Path" and open it
+- Under the second window labeled "System Variables" scroll to "Path" and open it
 
 ![insert2](https://user-images.githubusercontent.com/54562962/194244997-762c0266-d28e-4860-9b69-af8de2070148.jpg)
 
@@ -90,11 +88,10 @@ python -m jupyterlab
 
 ![new_files](https://user-images.githubusercontent.com/54562962/194246608-98ff4aae-01b0-4dfe-9e02-b9e45ba1871c.jpg)
 
-
 - Once inside Jupyter Lab double click "A Song of Fire and Ice.ipynb" in order to access the notebook
 - Press (Restart the Kernel + Run > Run All Cells) To view all graphs and data inside the notebook
  
-From here you are free to manipulate and view the graph visualizations that do not appear in the GitHub repository.
+From this point on you are free to manipulate and view the graph visualizations that do not appear in this GitHub repository.
 
 
 ## What I learned
