@@ -25,7 +25,7 @@ This project also assumes you have a general knowledge of local directory manage
 
 - Once inside the IDE navigate towards the bottom of the screen and open the terminal tab
 - Ensure you are set in your project directory
-- 
+
 ![Terminal](https://user-images.githubusercontent.com/54562962/194197575-6bc51bc0-e039-4dd0-96e4-79f462629426.jpg)
 
  ### Run the following Commands
