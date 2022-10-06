@@ -21,15 +21,16 @@ This project also assumes you have a general knowledge of local directory manage
 3. (Optional) create a desktop folder to store the project (* I used a folder called replica_project)
 
 4. Run Pycharm
+
 &nbsp; - Create new Project using venv (Virtual Enviornment) in Pycharm 
 
 ![Python Setup](https://user-images.githubusercontent.com/54562962/194196957-699c2bcb-b441-4a57-a4ad-37a594b8faf3.jpg)
 
-- Once inside the IDE navigate towards the bottom of the screen and open the terminal tab
-- Ensure you are set in your project directory
+&nbsp; - Once inside the IDE navigate towards the bottom of the screen and open the terminal tab
+&nbsp; - Ensure you are set in your project directory
 
-
-	- upgrade pip	*run command: pip install --upgrade pip
+ ### Run the following Commands
+	-  pip install --upgrade pip
 		- if ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'C:PATH'
 			Check the permissions.
 			(*See https://www.youtube.com/watch?v=rKYRcwbFp6Y&ab_channel=StudySession for solution)
