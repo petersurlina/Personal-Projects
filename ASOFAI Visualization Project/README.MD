@@ -3,7 +3,7 @@
 
 ## Project Objective
 
-
+&nbsp;
 
 
 
@@ -15,19 +15,17 @@
 This project also assumes you have a general knowledge of local directory management and can follow along with the setup even if you have different names for files.
 
 1. Install Python (https://www.python.org/downloads/)
-
 2. Install Pycharm IDE (https://www.jetbrains.com/help/pycharm/installation-guide.html)
-
 3. (Optional) create a desktop folder to store the project (* I used a folder called replica_project)
-
 4. Run Pycharm
 
-&nbsp;&nbsp;&nbsp;&nbsp;- Create new Project using venv (Virtual Enviornment) in Pycharm 
+- Create new Project using venv (Virtual Enviornment) in Pycharm 
 
 ![Python Setup](https://user-images.githubusercontent.com/54562962/194196957-699c2bcb-b441-4a57-a4ad-37a594b8faf3.jpg)
 
-&nbsp; - Once inside the IDE navigate towards the bottom of the screen and open the terminal tab
-&nbsp; - Ensure you are set in your project directory
+- Once inside the IDE navigate towards the bottom of the screen and open the terminal tab
+- Ensure you are set in your project directory
+![Terminal](https://user-images.githubusercontent.com/54562962/194197575-6bc51bc0-e039-4dd0-96e4-79f462629426.jpg)
 
  ### Run the following Commands
 	-  pip install --upgrade pip
