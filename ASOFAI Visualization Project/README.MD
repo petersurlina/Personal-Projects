@@ -14,17 +14,20 @@
 
 This project also assumes you have a general knowledge of local directory management and can follow along with the setup even if you have different names for files.
 
--install Python (https://www.python.org/downloads/)
+1. install Python (https://www.python.org/downloads/)
 
--install Pycharm IDE (https://www.jetbrains.com/help/pycharm/installation-guide.html)
+2. install Pycharm IDE (https://www.jetbrains.com/help/pycharm/installation-guide.html)
 
--(Optional) create a desktop folder to store the project (* I used a folder called replica_project)
-	- Run Pycharm
-	- Create new Project using venv (Virtual Enviornment) in Pycharm 
-INSERT PICTURE -> setup
-	- Once inside the IDE navigate towards the bottom of the screen and open the terminal tab
-	- Ensure you are set in your project directory
-INSERT PICTURE ->Terminal
+3. (Optional) create a desktop folder to store the project (* I used a folder called replica_project)
+
+4. Run Pycharm
+- Create new Project using venv (Virtual Enviornment) in Pycharm 
+
+![Python Setup](https://user-images.githubusercontent.com/54562962/194196957-699c2bcb-b441-4a57-a4ad-37a594b8faf3.jpg)
+
+- Once inside the IDE navigate towards the bottom of the screen and open the terminal tab
+- Ensure you are set in your project directory
+
 
 	- upgrade pip	*run command: pip install --upgrade pip
 		- if ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'C:PATH'
