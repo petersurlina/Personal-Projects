@@ -93,6 +93,8 @@ python -m jupyterlab
 9. Once inside Jupyter Lab double click "A Song of Fire and Ice.ipynb" in order to access the notebook
 10. Press (Restart the Kernel + Run > Run All Cells) To view all graphs and data inside the notebook
  
+ ![network](https://user-images.githubusercontent.com/54562962/194263932-aa9f1c33-a139-4df8-8601-32dcdc8e85e3.jpg) ![Communities](https://user-images.githubusercontent.com/54562962/194264023-b92c17d6-2538-4818-9cfe-a14acf18c465.jpg)
+
 From this point on you are free to manipulate and view the graph visualizations that do not appear in this GitHub repository.
 
 ## Personal Motivation
