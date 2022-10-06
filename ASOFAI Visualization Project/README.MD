@@ -34,8 +34,8 @@ if ERROR: Could not install packages due to an OSError: [WinError 5] Access is d
 (See https://www.youtube.com/watch?v=rKYRcwbFp6Y&ab_channel=StudySession for solution)
 - Make sure to save change made to pyvenv.cfg file
 
-	- run command: python -m pip install jupyter
-	- run command: pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for confirmation of downloads)
+		- python -m pip install jupyter
+		- pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for confirmation of downloads)
 	- Add Scripts path from inside project Folder to PATH settings
 		- navigate to your project folder
 INSERT PIC PATH1
