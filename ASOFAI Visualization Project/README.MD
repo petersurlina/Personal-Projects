@@ -29,13 +29,16 @@ This project also assumes you have a general knowledge of local directory manage
 ![Terminal](https://user-images.githubusercontent.com/54562962/194197575-6bc51bc0-e039-4dd0-96e4-79f462629426.jpg)
 
  ### Run the following Commands
-	-  pip install --upgrade pip
+	```
+	pip install --upgrade pip
+	```
 if ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'C:PATH' Check the permissions.
 (See https://www.youtube.com/watch?v=rKYRcwbFp6Y&ab_channel=StudySession for solution)
-- Make sure to save change made to pyvenv.cfg file
-
-		- python -m pip install jupyter
-		- pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for confirmation of downloads)
+- Make sure to save change made to pyvenv.cfg file and continue running commands
+	```
+	python -m pip install jupyter
+	pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for confirmation of downloads)
+	```
 	- Add Scripts path from inside project Folder to PATH settings
 		- navigate to your project folder
 INSERT PIC PATH1
