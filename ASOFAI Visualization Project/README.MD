@@ -15,8 +15,10 @@
 This project also assumes you have a general knowledge of local directory management and can follow along with the setup even if you have different names for files.
 
 -install Python (https://www.python.org/downloads/)
+
 -install Pycharm IDE (https://www.jetbrains.com/help/pycharm/installation-guide.html)
-	- (Optional) create a desktop folder to store the project (* I used a folder called replica_project)
+
+-(Optional) create a desktop folder to store the project (* I used a folder called replica_project)
 	- Run Pycharm
 	- Create new Project using venv (Virtual Enviornment) in Pycharm 
 INSERT PICTURE -> setup
