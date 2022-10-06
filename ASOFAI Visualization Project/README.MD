@@ -5,7 +5,7 @@
 
 ## Project Objective
 
-
+The main objective of the project notebook is to visualize the most mentioned realtionships in the "A Song of Ice and Fire" book series. People may know this book series better by its TV adaptation, "Game of Thrones". However, the books have thousands of various characters appear throughtout its writing. The database I used for this project was not my own, it is actually available  on Kaggle.com. (Link: https://www.kaggle.com/datasets/marinl/assignement-1-got) Now I know this dataset is not complete since in total it has 2,824 relationships identified even though the total character count in the books come out to roughly 2,102 characters. Relationships on their own would be tens of thousands, if not hundreds of thousands, of differing entries. To obtain this data I imagine the original poster wrote a program that would scan the text of the books using some sort of [Natural Language Processing model](https://www.ibm.com/cloud/learn/natural-language-processing). From there they could develop these relationships as they appear in the text and the weight count would be adjusted based on the number of itneractions the characters have throughout the series.
 
 
 ## Recreating the project's environment
