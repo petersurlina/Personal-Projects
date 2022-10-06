@@ -37,7 +37,7 @@ if ERROR: Could not install packages due to an OSError: [WinError 5] Access is d
 - Make sure to save change made to pyvenv.cfg file and continue running commands
 ```
 python -m pip install jupyter
-pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for confirmation of downloads)
+pip install pandas, networkx, pyvis, matplot, scipy, python_louvain
 ```
 5. Add Scripts path from inside project Folder to PATH settings
 - Navigate to your project folder
@@ -70,9 +70,13 @@ pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for co
 - * Make sure to OK through all three windows open to save this adjustment
 
 6. Restart the Pycharm IDE and go back into the terminal interface
-	Run the following commands:
-- python -m jupyterlab build	*May take a few minutes to create 
-- python -m jupyterlab		(Builds pipeline on local directory and should open in a new browser tab)
+- Run the following commands:
+- 
+```
+python -m jupyterlab build	*May take a few minutes to create 
+python -m jupyterlab		(Builds pipeline on local directory and should open in a new browser tab)
+```
+
 - Now exit the JuypterLab browsing tab and go into Pycharms IDE Terminal
 - Press "ctrl + c" twice to break the pipeline
 - Copy the contents of Project_Files into Project Folder
