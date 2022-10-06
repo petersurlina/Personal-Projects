@@ -10,7 +10,7 @@
 
 ## Recreating the project's environment
 
-#### *This Setup is for Windows Environments running Python
+#### *This setup is for Windows Environments running Python
 
 This project also assumes you have a general knowledge of local directory management and can follow along with the setup even if you have different names for files.
 
@@ -39,22 +39,35 @@ if ERROR: Could not install packages due to an OSError: [WinError 5] Access is d
 python -m pip install jupyter
 pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for confirmation of downloads)
 ```
-- Add Scripts path from inside project Folder to PATH settings
+5. Add Scripts path from inside project Folder to PATH settings
 - Navigate to your project folder
-INSERT PIC PATH1
-			- go into the "venv" folder
-INSERT PIC PATH2
-			- go into the "Scripts" folder
-INSERT PIC PATH3
-			- copy the path of the scripts folder by right clicking in the white space of the overhead directory bar
-			- now search "PATH" in the windows bar -> Click on the "Edit system environment variables" option
-			- Click the "Environment Variables..." button
-INSERT PIC INSERT1
-			- Under the second windowed labeled "System Variables" scroll to "Path" and open it
-INSERT PIC INSERT2
-			- Finally, click the new button and copy the path to scripts (ctrl + v to paste)
-INSERT PIC INSERT3
-			- * Make sure to OK through all three windows open to save this adjustment
+
+![Path1](https://user-images.githubusercontent.com/54562962/194244524-a5650cfe-ed90-4144-a62b-97da3b92b108.jpg)
+
+- go into the "venv" folder
+			
+![Path2](https://user-images.githubusercontent.com/54562962/194244582-4b745633-65bc-49b4-94ec-32eccadb695f.jpg)
+
+- go into the "Scripts" folder
+
+![Path3](https://user-images.githubusercontent.com/54562962/194244646-d9745762-5db9-497a-ba59-bd66cfa80170.jpg)
+
+- Copy the path of the scripts folder by right clicking in the white space of the overhead directory bar
+- Search "PATH" in the windows bar -> Click on the "Edit system environment variables" option
+- Click the "Environment Variables..." button
+ 
+![insert1](https://user-images.githubusercontent.com/54562962/194244833-c6543d56-1144-489c-b0ab-7bda30db1d4e.jpg)
+
+- Under the second windowed labeled "System Variables" scroll to "Path" and open it
+
+![insert2](https://user-images.githubusercontent.com/54562962/194244997-762c0266-d28e-4860-9b69-af8de2070148.jpg)
+
+
+- Finally, click the new button and copy the path to scripts (ctrl + v to paste)
+
+![insert3](https://user-images.githubusercontent.com/54562962/194245061-89216a00-ecd8-48ee-b558-5c56331c67c3.jpg)
+
+- * Make sure to OK through all three windows open to save this adjustment
 
 
 	- Now restart the Pycharm IDE and go back into the terminal interface
