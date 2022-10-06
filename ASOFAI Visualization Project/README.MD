@@ -67,11 +67,11 @@ pip install pandas, networkx, pyvis, matplot, scipy, python_louvain
 
 ![insert3](https://user-images.githubusercontent.com/54562962/194245061-89216a00-ecd8-48ee-b558-5c56331c67c3.jpg)
 
-- * Make sure to OK through all three windows open to save this adjustment
+* Make sure to OK through all three windows open to save this adjustment
 
 6. Restart the Pycharm IDE and go back into the terminal interface
 - Run the following commands:
-- 
+
 ```
 python -m jupyterlab build	*May take a few minutes to create 
 python -m jupyterlab		(Builds pipeline on local directory and should open in a new browser tab)
@@ -80,11 +80,19 @@ python -m jupyterlab		(Builds pipeline on local directory and should open in a n
 - Now exit the JuypterLab browsing tab and go into Pycharms IDE Terminal
 - Press "ctrl + c" twice to break the pipeline
 - Copy the contents of Project_Files into Project Folder
-INSERT PIC ADDED
-	- Rerun python -m jupyterlab in Pycharms IDE terminal window (Confirm new files show up on left hand side of notebook)
-INSERT PIC NEW_FILES
-	- Once inside Jupyter Lab double click "A Song of Fire and Ice.ipynb" in order to access the notebook
-	- Press (Restart the Kernel + Run > Run All Cells) To view all graphs and data inside the notebook
+
+![Added](https://user-images.githubusercontent.com/54562962/194246336-bc3e985b-884e-44f7-a420-a29bff8f07d6.jpg)
+
+Rerun the following command in Pycharms IDE terminal window (Confirm new files show up on left hand side of notebook):
+```
+python -m jupyterlab 
+```
+
+![new_files](https://user-images.githubusercontent.com/54562962/194246608-98ff4aae-01b0-4dfe-9e02-b9e45ba1871c.jpg)
+
+
+- Once inside Jupyter Lab double click "A Song of Fire and Ice.ipynb" in order to access the notebook
+- Press (Restart the Kernel + Run > Run All Cells) To view all graphs and data inside the notebook
  
 From here you are free to manipulate and view the graph visualizations that do not appear in the GitHub repository.
 
