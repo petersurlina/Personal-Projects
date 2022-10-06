@@ -70,16 +70,16 @@ pip install pandas, networkx, pyvis, matplot, scipy, python_louvain
 * Make sure to OK through all three windows open to save this adjustment
 
 6. Restart the Pycharm IDE and go back into the terminal interface
-- Run the following commands:
+Run the following commands:
 
 ```
 python -m jupyterlab build	*May take a few minutes to create 
 python -m jupyterlab		(Builds pipeline on local directory and should open in a new browser tab)
 ```
 
-- Now exit the JuypterLab browsing tab and go into Pycharms IDE Terminal
+7. Now exit the JuypterLab browsing tab and go into Pycharms IDE Terminal
 - Press "ctrl + c" twice to break the pipeline
-- Copy the contents of Project_Files into Project Folder
+8. Copy the contents of Project_Files into the project folder
 
 ![Added](https://user-images.githubusercontent.com/54562962/194246336-bc3e985b-884e-44f7-a420-a29bff8f07d6.jpg)
 
@@ -90,8 +90,8 @@ python -m jupyterlab
 
 ![new_files](https://user-images.githubusercontent.com/54562962/194246608-98ff4aae-01b0-4dfe-9e02-b9e45ba1871c.jpg)
 
-- Once inside Jupyter Lab double click "A Song of Fire and Ice.ipynb" in order to access the notebook
-- Press (Restart the Kernel + Run > Run All Cells) To view all graphs and data inside the notebook
+9. Once inside Jupyter Lab double click "A Song of Fire and Ice.ipynb" in order to access the notebook
+10. Press (Restart the Kernel + Run > Run All Cells) To view all graphs and data inside the notebook
  
 From this point on you are free to manipulate and view the graph visualizations that do not appear in this GitHub repository.
 
