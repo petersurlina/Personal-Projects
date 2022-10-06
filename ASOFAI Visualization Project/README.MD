@@ -16,7 +16,7 @@ This project also assumes you have a general knowledge of local directory manage
 
 1. Install Python (https://www.python.org/downloads/)
 2. Install Pycharm IDE (https://www.jetbrains.com/help/pycharm/installation-guide.html)
-3. (Optional) create a desktop folder to store the project (* I used a folder called replica_project)
+3. Create a desktop folder to store the project (* I used a folder called replica_project)
 4. Run Pycharm
 
 - Create new Project using venv (Virtual Enviornment) in Pycharm 
@@ -25,14 +25,14 @@ This project also assumes you have a general knowledge of local directory manage
 
 - Once inside the IDE navigate towards the bottom of the screen and open the terminal tab
 - Ensure you are set in your project directory
+- 
 ![Terminal](https://user-images.githubusercontent.com/54562962/194197575-6bc51bc0-e039-4dd0-96e4-79f462629426.jpg)
 
  ### Run the following Commands
 	-  pip install --upgrade pip
-		- if ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'C:PATH'
-			Check the permissions.
-			(*See https://www.youtube.com/watch?v=rKYRcwbFp6Y&ab_channel=StudySession for solution)
-		- Make sure to save change made to pyvenv.cfg file
+- if ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'C:PATH' Check the permissions.
+--(See https://www.youtube.com/watch?v=rKYRcwbFp6Y&ab_channel=StudySession for solution)
+- Make sure to save change made to pyvenv.cfg file
 
 	- run command: python -m pip install jupyter
 	- run command: pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for confirmation of downloads)
