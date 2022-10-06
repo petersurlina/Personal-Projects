@@ -69,13 +69,13 @@ pip install pandas, networkx, pyvis, matplot, scipy, python_louvain (Wait for co
 
 - * Make sure to OK through all three windows open to save this adjustment
 
-
-	- Now restart the Pycharm IDE and go back into the terminal interface
-	- python -m jupyterlab build	*May take a few minutes to create 
-	- python -m jupyterlab		(Builds pipeline on local directory and should open in a new browser tab)
-	- Now exit the JuypterLab browsing tab and go into Pycharms IDE Terminal
-	- Press "ctrl + c" twice to break the pipeline
-	- Copy the contents of Project_Files into Project Folder
+6. Restart the Pycharm IDE and go back into the terminal interface
+	Run the following commands:
+- python -m jupyterlab build	*May take a few minutes to create 
+- python -m jupyterlab		(Builds pipeline on local directory and should open in a new browser tab)
+- Now exit the JuypterLab browsing tab and go into Pycharms IDE Terminal
+- Press "ctrl + c" twice to break the pipeline
+- Copy the contents of Project_Files into Project Folder
 INSERT PIC ADDED
 	- Rerun python -m jupyterlab in Pycharms IDE terminal window (Confirm new files show up on left hand side of notebook)
 INSERT PIC NEW_FILES
