@@ -31,7 +31,7 @@ This project also assumes you have a general knowledge of local directory manage
  ### Run the following Commands
 	-  pip install --upgrade pip
 - if ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'C:PATH' Check the permissions.
---(See https://www.youtube.com/watch?v=rKYRcwbFp6Y&ab_channel=StudySession for solution)
+-(See https://www.youtube.com/watch?v=rKYRcwbFp6Y&ab_channel=StudySession for solution)
 - Make sure to save change made to pyvenv.cfg file
 
 	- run command: python -m pip install jupyter
