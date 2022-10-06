@@ -98,7 +98,7 @@ python -m jupyterlab
 From this point on you are free to manipulate and view the graph visualizations that do not appear in this GitHub repository.
 
 ## Personal Motivation
-My whole reason for creating this project was to learn more about data visualizations and what technologies were available for me to do so. I decided on utilizing Jupyter Lab after doing some quick reading on available free technologies. I wanted to test the usability of Jupyter Lab's notebook style so I took the leap and ultimately was pleased with the results.
+My entire reason for creating this project was to learn more about data visualizations and what technologies were available for me to do so. I decided on utilizing Jupyter Lab after doing some quick reading on available free technologies. I wanted to test the usability of Jupyter Lab's notebook style so I took the leap, and ultimately was pleased with the results.
 
 ## What I learned
 ------------------------
